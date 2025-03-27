@@ -1,0 +1,7 @@
+name: RevenantPlugin
+version: '1.0'
+main: dev.burrnr.revenant.RevenantPlugin
+api-version: '1.21'
+authors: [ Burrnr ]
+description: The Curse will live on.
+website: github.com/Burrnr
